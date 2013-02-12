@@ -1,14 +1,23 @@
-lib-cov
-*.seed
-*.log
-*.csv
-*.dat
-*.out
-*.pid
-*.gz
+# Sublime
+*.sublime-project
+*.sublime-workspace
 
-pids
-logs
-results
+# Windows
+Thumbs.db
 
-npm-debug.log
+# OsX
+.DS_Store
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# nodejs npm modules
+/node_modules
+
+# bower modules
+/components
+
+# node-cluster
+/pids
+*.sock
