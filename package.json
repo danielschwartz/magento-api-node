@@ -1,0 +1,8 @@
+{
+  "name": "magento-test",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "xmlrpc": "~1.1.0"
+  }
+}
